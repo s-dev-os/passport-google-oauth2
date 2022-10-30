@@ -35,7 +35,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "git+https://github.com/s-dev-os/passport-oauth2.git#1f8ff8cdba70d93c8ec8de89daf1ccfc84a3f330"
   },
   "devDependencies": {
     "make-node": "0.4.6",
